@@ -49,7 +49,9 @@ OPTION 1: :arrow_forward: Python_env - Windows
 
 OPTION 2: :arrow_forward: Google collab 
 Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1mC5q92VLj-EQHTAUGSzr8OLTv54aPQT8?usp=sharing)
+
 :arrow_right: Loading up the dataset  
+
 - Click on the files icon on the side bar shown below.
 
 ![cover page image](/anomaly-detection/assets/img/file1.PNG)
