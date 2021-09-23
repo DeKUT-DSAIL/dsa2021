@@ -28,19 +28,20 @@ I am currently a Research intern at Centre for Data Science and Artificial intel
 
 #### :two: Python Environment _ setup
 To work on the notebook provided, you will need to set-up a Python environment. Below are steps on how to set it up. (the requirement.txt provided will help)
+
 **:computer: Windows**
 1. Download Anaconda link :link:[Anaconda](Downloads\Programs\Anaconda3-2021.05-Windows-x86_64.exe) and install it (stick to the defaults and remember to link it to your command prompt )
 2. Open up the Anaconda prompt on the search button 
 3. This dsa2021 repositroy into your computer
 4. On the Anaconda prompt, change the directory and access the repo you have just cloned.
 5. To create the conda environment, start with :( name: name of the environment python: python version)
-- Run `conda create -name dsa2021_anomaly python=3.7`. and press enter
-6. stick to the defaults and press YES at all steps
-- After the process is done, activate the environment you have just setup by running
-- Run `conda activate dsa2021_anomaly`
-7. At this point, you can install the requirements by running 
-- Run `pip install -r requirements.txt`
-8. After the requirement installation, the environment is ready to go 
+- Run `conda create -name dsa2021_anomaly python=3.7`. 
+6. stick to the defaults and press YES at all steps.
+- After the process is done, activate the environment you have just setup by running.
+- Run `conda activate dsa2021_anomaly` or `activate dsa2021_anomaly `.
+7. At this point, you can install the requirements by running.
+- Run `pip install -r requirements.txt`.
+8. After the requirement installation, the environment is ready to go.
 - Run `jupter notebook` to open up the anomaly detection notebook on your default browser. 
 :battery: **green light**
 
