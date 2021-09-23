@@ -5,7 +5,7 @@
 ## TOPIC : Water Resource Monitoring and River Catchment analysis 
 ## Host: Jason Kabi
 
-![cover page image](/assets/jason.jpg)
+![cover page image](/assets/img/jason.jpg)
 
 #### Brief Bio
 I am currently a Research intern at Centre for Data Science and Artificial intelligence(DSAIL) Dedan Kimathi University of Technology(DeKUT).I am also a Graduate Electrical Engineer and Data Scientist with experience in Machine Learning, IoT/Sensor systems development, IoT/Sensor systems deployment, data analysis, data visualization, and Electrical hardware (PCB) Design. In this session am  taking audiences through a river Water level Monitoring project. Data collected can be used to diagnose the status of the river catchment. 
