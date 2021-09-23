@@ -29,6 +29,8 @@ I am currently a Research intern at Centre for Data Science and Artificial intel
 #### :two: Python Environment _ setup
 To work on the notebook provided, you will need to set-up a Python environment. Below are steps on how to set it up. (the requirement.txt provided will help)
 
+OPTION 1: :arrow_forward: Python_env - Windows 
+
 **:computer: Windows**
 1. Download Anaconda link :link:[Anaconda](Downloads\Programs\Anaconda3-2021.05-Windows-x86_64.exe) and install it (stick to the defaults and remember to link it to your command prompt )
 2. Open up the Anaconda prompt on the search button 
@@ -45,4 +47,21 @@ To work on the notebook provided, you will need to set-up a Python environment. 
 - Run `jupter notebook` to open up the anomaly detection notebook on your default browser. 
 :battery: **green light**
 
+OPTION 2: :arrow_forward: Google collab 
+Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1mC5q92VLj-EQHTAUGSzr8OLTv54aPQT8?usp=sharing)
+:arrow_right: Loading up the dataset  
+- Click on the files icon on the side bar shown below.
 
+![cover page image](/anomaly-detection/assets/img/file1.PNG)
+
+- Click on the upload button aned you will be prompted to upload a file.
+- Select water-level dataset sample from the repo you cloned (in the static folder) and upload it.
+
+![cover page image](/anomaly-detection/assets/img/file2.PNG)
+
+- Right click on the dataset sample to copy the path.
+- Paste it on the *package import* cell of the notebook
+
+![cover page image](/anomaly-detection/assets/img/file2.PNG)
+
+- Run the notebook :battery: **green light**
