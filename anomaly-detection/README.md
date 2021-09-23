@@ -13,7 +13,18 @@ I am currently a Research intern at Centre for Data Science and Artificial intel
 - :link: Email: jason.kabi@dkut.ac.ke
 
 
-### :one: What we intended to handle during these session
+#### What we intended to handle during these session
 
-#### :point_right: Anomaly detection using :link: [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
-**To run the notebook available you need to setup a python 3.7 environment (You can use the the requirements.txt file available)**
+## :point_right: Anomaly detection using :link: [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+
+#### :one: Materials provided
+- Presentation slides 
+- A water-level sample datasets (tailored for the Anomaly detection piece)
+- A requirements.txt file to create a python environment 
+
+#### :three: Requirements
+- A computer with Python installed (Can be installed by installing [Anaconda](Downloads\Programs\Anaconda3-2021.05-Windows-x86_64.exe) 
+- Access to Jupyter notebook
+
+#### :two: Python Environment _ setup
+To run 
