@@ -62,6 +62,6 @@ Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/d
 - Right click on the dataset sample to copy the path.
 - Paste it on the *package import* cell of the notebook
 
-![cover page image](/anomaly-detection/assets/img/file2.PNG)
+![cover page image](/anomaly-detection/assets/img/file3.PNG)
 
 - Run the notebook :battery: **green light**
