@@ -12,4 +12,5 @@ The introductory slides for the session are [here](https://docs.google.com/prese
 
 ## Anomaly detection
 
+
 ## Camera trap image processing
