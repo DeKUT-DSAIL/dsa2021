@@ -5,6 +5,8 @@ This repo contains material to be used for the DSAIL session at DSA 2021. During
 * Anomaly detection for time series data
 * Camera trap image processing
 
+The introductory slides for the session are [here](https://docs.google.com/presentation/d/1YEe4n4gkYo-EjgHpaq--zeufmJvlE1FsUclJfDsqnqU/edit?usp=sharing)
+
 ## Acoustic data processing
 [Details here](acoustic-processing/)
 
