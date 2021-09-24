@@ -21,8 +21,4 @@ A solar panel is used to recharge batteries. Our current powering system enables
 
 # Our Data
 Our data is in the form of images saved in jpg format. They are saved in the format YY-MM-DD_H-M-S
-    |--Sample data
-        |-- 21Sep05_17_50_56.jpg
-        |-- 21Sep14_17_58_12.jpg
-        |-- 21Sep18_10_50_15.jpg
 
