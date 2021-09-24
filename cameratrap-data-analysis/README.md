@@ -1,4 +1,4 @@
-## Camera trap Image Processing
+# Camera trap Image Processing
 
 # Background
 Having up to date information about the location and behaviour of animals in the wild will improve our ability to study and better conserve natural ecosystems. It will also help us mange and protect these ecosystems. 
