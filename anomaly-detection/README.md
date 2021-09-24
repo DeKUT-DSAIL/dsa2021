@@ -22,11 +22,11 @@ I am currently a Research intern at Centre for Data Science and Artificial intel
 - A water-level sample dataset (tailored for this Anomaly detection piece)
 - A requirements.txt file to create a python environment 
 
-#### :three: Requirements
+#### :two: Requirements
 - A computer with Python installed (Can be installed by installing [Anaconda](Downloads\Programs\Anaconda3-2021.05-Windows-x86_64.exe) 
 - Access to Jupyter notebook
 
-#### :two: Python Environment _ setup
+#### :three: Python Environment _ setup
 To work on the notebook provided, you will need to set-up a Python environment. Below are steps on how to set it up. (the requirement.txt provided will help)
 
 OPTION 1: :arrow_forward: Python_env - Windows 
@@ -67,3 +67,8 @@ Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/d
 ![cover page image](/anomaly-detection/assets/img/file3.PNG)
 
 - Run the notebook :battery: **green light**
+
+#### :three: water-level data visualization webapp.
+- The following is a link to the water level data webapp.
+
+Link :link:[waterlevel_webapp](https://water-monitoring-258811.wl.r.appspot.com)
