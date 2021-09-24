@@ -15,11 +15,14 @@ It is based on a passive infrared (PIR) MOTION sensor and a raspberry pi with a 
 It is set in such a way that once motion is detected, the camera captures images and saves them in an SD card. 
 A solar panel is used to recharge batteries. Our current powering system enables our camera trap to stay in the field for a week, after which batteries are recharged and SD cards changed. We currently have 3 camera traps in the conservancy.
 
+![21Jul09_17_49_24-2](https://user-images.githubusercontent.com/74656615/134635155-9b8b6b24-b332-453f-801c-2ae9e726c07a.jpg)
+
+
 
 # Our Data
 Our data is in the form of images saved in jpg format. They are saved in the format YY-MM-DD_H-M-S
-|--Sample data
-    |-- 21Sep05_17_50_56.jpg
-    |-- 21Sep14_17_58_12.jpg
-    |-- 21Sep18_10_50_15.jpg
+    |--Sample data
+        |-- 21Sep05_17_50_56.jpg
+        |-- 21Sep14_17_58_12.jpg
+        |-- 21Sep18_10_50_15.jpg
 
