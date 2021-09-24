@@ -5,23 +5,8 @@ Here we will describe the steps necessary to work with acoustic signals and demo
 
 ## Data Processing
 
-Before describing the applications, we will go through general steps in working with audio signals. These steps are descibed in the notebook `audio-processing.ipynb`. To be able to run the notebook,
-do the following
+Before describing the applications, we will go through general steps in working with audio signals. These steps are descibed in the notebook `audio-processing.ipynb`. Activate `iot-env` created earlier and launch the notebook.
 
-1. Clone this repository and cd into it
-1. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
-`python3 -m venv audio-env`
-1. Activate it
-On Linux
-`source audio-env/bin/activate`
-On Windows
-`audio-env\Scripts\activate.bat`
-1. Update pip `pip install --upgrade pip`
-1. Install the requirements
-`pip install -r requirements.txt`
-
-
-Once this is done launch the notebook.
 
 
 ## Acoustic Ecosytstem Monitoring
@@ -34,11 +19,7 @@ We will use this dataset to train a neural network to classify vehicles based on
 
 
 ### Get the data
-Here we are using a version of the dataset that has been converted to mono and `mp3` to save space. The dataset has been uploaded [here](https://drive.google.com/file/d/1-wvwEL766FvvpgJYi_adrxAyu2rHW77A/view?usp=sharing). Download the dataset and unzip the the files into the data folder.
-
-
-
-We have prepared melspectrograms for download [here](https://drive.google.com/file/d/1ibw9jKKqx8lDWEPyOEIGqmJkXqMkvew1/view?usp=sharing) using the parameters listed in `files/parameters.ini`. Download these melspectrograms and unzip them in the data folder to produce the folder `melspec-16kHz-mp3`. Once this is done, the file structure should then look as shown below
+Ensure you have downloaded and unpacked the data as descibed [here](../README.md) and that the data directory looks as shown below.
 
 ```
 data
@@ -51,7 +32,14 @@ data
 │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10173440_SE_CH34-BG.npy
 ```
 
-#### New Melspectrograms
+
+
+
+### Run the notebook
+The file `acoustic-traffic-monitoring.ipynb` shows the steps used to train the models and test them.
+
+
+### [For later] New Melspectrograms
 To process the entire dataset and generate new melspectrograms with new parameters, run the following command
 
 ```
@@ -59,7 +47,3 @@ python parallel_feature_compute.py -a data/audio-16kHz-mono-mp3/ -f data/melspec
 ```
 
 This program will exploit multiple cores on your machine if they exist and use the parameters specified in `files/parameters.ini` to generate the melspectrograms.
-
-
-### Run the notebook
-The file `acoustic-traffic-monitoring.ipynb` shows the steps used to train the models and test them.
