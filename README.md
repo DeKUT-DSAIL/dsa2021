@@ -14,7 +14,7 @@ The introductory slides for the session are [here](https://docs.google.com/prese
 
 1. Clone this repository and cd into it
 1. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
-`python3 -m venv iot-env`
+On Linux `python3 -m venv iot-env` or On Windows `python -m venv iot-env`
 1. Activate it
 On Linux
 `source iot-env/bin/activate`
