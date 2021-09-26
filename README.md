@@ -29,6 +29,7 @@ On Windows
 For the acoustic processing session, download the following data
 * [Audio traffic recordings](https://drive.google.com/file/d/1-wvwEL766FvvpgJYi_adrxAyu2rHW77A/view?usp=sharing)
 * [Melspectrograms from the recordings](https://drive.google.com/file/d/1ibw9jKKqx8lDWEPyOEIGqmJkXqMkvew1/view?usp=sharing)
+* [Birds melspectrograms](https://drive.google.com/file/d/1BATJ6R6yTpEArAdD61l9i7u1WiTvf5cg/view?usp=sharing)
 
 Extract the audio and melspectrogam folders within the data subfolder in the acoustic-processing folder. The directory structure should look as follows
 ```
@@ -48,6 +49,9 @@ Extract the audio and melspectrogam folders within the data subfolder in the aco
 │   │   ├── audio-16kHz-mono-mp3
 │   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10077440_SE_CH34-BG.npy
 │   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10173440_SE_CH34-BG.npy
+|   |   ├──birds-melspectrograms
+|   |   |   ├──grey-backed camaroptera0.npy
+|   |   |   ├──grey-backed camaroptera1.npy
 ```
 ## Acoustic data processing
 [Details here](acoustic-processing/)
