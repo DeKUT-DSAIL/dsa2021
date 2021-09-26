@@ -42,8 +42,8 @@ Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/d
 
 ![cover page image](/anomaly-detection/assets/img/file2.PNG)
 
-- Right click on the dataset sample to copy the path.
-- Paste it on the *dataset import and visualize* cell of the notebook
+- Right click on the dataset samples to copy the path.
+- Paste it on the *dataset import slots* cell of the notebook
 
 ![cover page image](/anomaly-detection/assets/img/file3.PNG)
 

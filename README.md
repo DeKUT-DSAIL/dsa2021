@@ -54,7 +54,7 @@ Extract the audio and melspectrogam folders within the data subfolder in the aco
 
 ## Anomaly detection
 
-#### What we intended to handle during these session
+### What we intended to handle during these session
 
 ## :point_right: Anomaly detection using :link: [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
@@ -83,8 +83,8 @@ Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/d
 
 ![cover page image](/anomaly-detection/assets/img/file2.PNG)
 
-- Right click on the dataset sample to copy the path.
-- Paste it on the *dataset import and visualize* cell of the notebook
+- Right click on the dataset samples to copy the path.
+- Paste it on the *dataset import slots* cell of the notebook
 
 ![cover page image](/anomaly-detection/assets/img/file3.PNG)
 
