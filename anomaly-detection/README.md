@@ -48,7 +48,7 @@ OPTION 1: :arrow_forward: Python_env - Windows
 :battery: **green light**
 
 OPTION 2: :arrow_forward: Google collab 
-Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1mC5q92VLj-EQHTAUGSzr8OLTv54aPQT8?usp=sharing)
+Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1Yrfy3yVFvKGKQnyr24vGqTewC3mbTWdW?usp=sharing)
 
 :arrow_right: Loading up the dataset  
 
@@ -57,7 +57,7 @@ Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/d
 ![cover page image](/anomaly-detection/assets/img/file1.PNG)
 
 - Click on the upload button aned you will be prompted to upload a file.
-- Select water-level dataset sample from the repo you cloned (in the static folder) and upload it.
+- Select the three datasets from the repo you cloned (in the data folder) and upload it.
 
 ![cover page image](/anomaly-detection/assets/img/file2.PNG)
 
