@@ -20,8 +20,8 @@ I am currently a Research intern at Centre for Data Science and Artificial intel
 #### :one: Materials provided
 - Presentation slides 
 - A water-level sample dataset (tailored for this Anomaly detection piece)
-- A requirements.txt file to create a python environment 
-
+- Rainfall dataset from TAHMO
+- River Muringato daily water level figures dataset from 11th Feb 2021 to 25th Sept 2021
 #### :two: Requirements
 - A computer with Python installed (Can be installed by installing [Anaconda](Downloads\Programs\Anaconda3-2021.05-Windows-x86_64.exe) 
 - Access to Jupyter notebook
