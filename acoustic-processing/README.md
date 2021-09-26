@@ -10,7 +10,7 @@ Before describing the applications, we will go through general steps in working 
 
 
 ## Acoustic Ecosytstem Monitoring
-
+Ecosystems contain vast amounts of acoustic data that tell a lot about what is happening in them. In this task, we will demonstrate how we can automatically classify birds from their vocalizations. We will use acoustic data from [Xeno-canto](https://www.xeno-canto.org/) to train baseline models for acoustic classification of birds
 
 ## Acoustic Road Traffic Monotoring
 This work will use a data set from the [Fraunhofer Institute for Digital Media Technology](https://www.idmt.fraunhofer.de/en/publications/traffic.html) of audio recordings of vehicles driving along a road under different conditions. The dataset contains four vehicle types namely bus, car, motorcycle and truck.
