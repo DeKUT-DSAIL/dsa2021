@@ -27,9 +27,8 @@ I am currently a Research intern at Centre for Data Science and Artificial intel
 - Access to Jupyter notebook
 
 #### :three: Python Environment _ setup
-To work on the notebook provided, you will need to set-up a Python environment. Below are steps on how to set it up. (the requirement.txt provided will help)
 
-OPTION 1: :arrow_forward: Python_env - Windows
+OPTION 1: :arrow_forward: Python_environment - Windows
 - You can use the eneviroment set up for acoustic processing 
 
 OPTION 2: :arrow_forward: Google collab 
