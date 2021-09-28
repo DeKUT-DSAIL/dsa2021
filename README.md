@@ -37,21 +37,37 @@ Extract the audio and melspectrogam folders within the data subfolder in the aco
 │   ├── acoustic-traffic-monitoring.ipynb
 │   ├── audio-processing.ipynb
 │   ├── audio-samples
+|   |   ├── bird-samples
+|   |   |   ├── grey-backed camaroptera.wav
+|   |   |   ├── hartlaub's turaco.wav
+|   |   ├── birds-test-data
+|   |   |   ├── grey-backed camaroptera
+|   |   |   |   ├── grey-backed camaroptera22.mp3
+|   |   |   |   ├── grey-backed camaroptera32.mp3
+|   |   |   ├── hartlaub's turaco
+|   |   |   |   ├── hartlaub's turaco4.mp3
+|   |   |   |   ├── hartlaub's turaco9.mp3
+|   |   |   ├── tropical boubou
+|   |   |   |   ├── tropical boubou9.mp3
+|   |   |   |   ├── tropical boubou21.mp3
 │   │   ├── examples
-│   │   │   └── piano-C6.wav
-│   │   └── vehicle-samples
+|   |   |   ├── piano-C6.wav
+|   |   ├── noise
+|   |   |   ├── grey-backed camaroptera0.wav
+|   |   |   ├── grey-backed camaroptera6.wav
+│   │   ├── vehicle-samples
 │   │       ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_1272258_M_D_BR_ME_CH12.mp3
 │   │       ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_1272258_M_D_BR_SE_CH34.mp3
 │   ├── data
-│   │   ├── melspec-16kHz-mp3
-│   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10077440_SE_CH34-BG.npy
-│   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10173440_SE_CH34-BG.npy
 │   │   ├── audio-16kHz-mono-mp3
 │   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10077440_SE_CH34-BG.npy
 │   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10173440_SE_CH34-BG.npy
-|   |   ├──birds-melspectrograms
-|   |   |   ├──grey-backed camaroptera0.npy
-|   |   |   ├──grey-backed camaroptera1.npy
+|   |   ├── birds-melspectrograms
+|   |   |   ├── grey-backed camaroptera0.npy
+|   |   |   ├── grey-backed camaroptera1.npy
+│   │   ├── melspec-16kHz-mp3
+│   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10077440_SE_CH34-BG.npy
+│   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10173440_SE_CH34-BG.npy
 ```
 ## Acoustic data processing
 [Details here](acoustic-processing/)
