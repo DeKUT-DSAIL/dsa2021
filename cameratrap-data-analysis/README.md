@@ -23,3 +23,7 @@ A solar panel is used to recharge batteries. Our current powering system enables
 Our data is in the form of images saved in jpg format. They are saved in the format YY-MM-DD-H-M-S.
 The animals included in our dataset are Impalas, monkeys, warthogs, bushbucks, waterbucks and zebras.
 
+# Image Processing and Classification
+The file `Camera-trap-image-processing.ipynb` shows the steps used to classify a sample of the data we collected.
+
+
