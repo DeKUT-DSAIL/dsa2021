@@ -100,3 +100,4 @@ Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/d
 Link :link:[waterlevel_webapp](https://water-monitoring-258811.wl.r.appspot.com)
 
 ## Camera trap image processing
+We will go through the notebook in the [Details here](cameratrap-data-analysis/) folder where we will use a pretrained model to classify the animals in our dataset.
