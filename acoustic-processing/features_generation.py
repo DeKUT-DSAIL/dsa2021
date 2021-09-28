@@ -3,7 +3,6 @@ import random
 import librosa
 import numpy as np
 import configparser
-import matplotlib.pyplot as plt
 import audio_noise_separation as an
 
 
