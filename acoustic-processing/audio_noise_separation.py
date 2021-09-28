@@ -1,12 +1,10 @@
 #import necessary libraries
 import os
-import random
 import librosa
 import argparse
 import warnings
 import numpy as np
 import configparser
-from tqdm import tqdm
 import IPython.display
 import librosa.display
 import soundfile as sf
