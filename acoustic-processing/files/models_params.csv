@@ -1,0 +1,5 @@
+model,best_param
+rf,200
+mlp,280
+svm-rbf,140.7894472
+svm,120.6909548
