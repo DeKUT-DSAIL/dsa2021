@@ -56,7 +56,7 @@ def features_extraction(audio,
         melspectrogram_dir: directory to save spectrograms
     """
       
-    #signal, _ = an.get_audio_noise(audio, nfft, hop_len)
+    signal, _ = an.get_audio_noise(audio, nfft, hop_len)
 
     signal = pad_audio(audio, duration, sampling_rate, noise_dir)
 
