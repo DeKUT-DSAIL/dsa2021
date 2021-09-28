@@ -1,16 +1,6 @@
 #import necessary libraries
-import os
-import librosa
-import argparse
-import warnings
 import numpy as np
-import configparser
-import IPython.display
-import librosa.display
-import soundfile as sf
-from queue import Queue
-import sounddevice as sd
-import matplotlib.pyplot as plt
+import librosa
 from scipy.ndimage import binary_dilation, binary_erosion
 
 
