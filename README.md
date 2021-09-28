@@ -34,8 +34,6 @@ For the acoustic processing session, download the following data
 Extract the audio and melspectrogam folders within the data subfolder in the acoustic-processing folder. The directory structure should look as follows
 ```
 ├── acoustic-processing
-│   ├── acoustic-traffic-monitoring.ipynb
-│   ├── audio-processing.ipynb
 │   ├── audio-samples
 |   |   ├── bird-samples
 |   |   |   ├── grey-backed camaroptera.wav
@@ -68,6 +66,17 @@ Extract the audio and melspectrogam folders within the data subfolder in the aco
 │   │   ├── melspec-16kHz-mp3
 │   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10077440_SE_CH34-BG.npy
 │   │   │   ├── 2019-10-22-08-40_Fraunhofer-IDMT_30Kmh_10173440_SE_CH34-BG.npy
+│   ├── files
+│   │   │   ├── eusipco_2021_test.csv
+│   │   │   ├── eusipco_2021_train.csv
+│   ├── acoustic-traffic-monitoring.ipynb
+│   ├── acoustic-ecosystems-monitoring.ipynb
+│   ├── audio_noise_separation.py
+│   ├── audio-processing.ipynb
+│   ├── features_generation.py
+│   ├── parallel_feature_compute.py
+│   ├── README.md
+│   ├── utility_functions.py
 ```
 ## Acoustic data processing
 [Details here](acoustic-processing/)
@@ -90,7 +99,7 @@ OPTION 1: :arrow_forward: Python_environment
 - You can use the environment set up for acoustic processing 
 
 OPTION 2: :arrow_forward: Google collab 
-Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1sXlzsvGY6tREikfF2Y-WxJgZISwWK8bH?usp=sharing)
+Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1Oe9kWt-88ehHAL_Plq5euHh2ekDiXWO5?usp=sharing)
 
 :arrow_right: Loading up the dataset  
 
