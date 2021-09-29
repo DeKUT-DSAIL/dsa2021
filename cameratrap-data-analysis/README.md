@@ -24,6 +24,6 @@ Our data is in the form of images saved in jpg format. They are saved in the for
 The animals included in our dataset are Impalas, monkeys, warthogs, bushbucks, waterbucks and zebras.
 
 # Image Processing and Classification
-The file `Camera-trap-image-processing.ipynb` shows the steps used to classify a sample of the data we collected.
+The notebook `Camera-trap-image-processing.ipynb` shows the steps used to classify images data we collected.
 
 
