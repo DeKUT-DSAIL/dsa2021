@@ -99,7 +99,7 @@ OPTION 1: :arrow_forward: Python_environment
 - You can use the environment set up for acoustic processing 
 
 OPTION 2: :arrow_forward: Google collab 
-Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1Oe9kWt-88ehHAL_Plq5euHh2ekDiXWO5?usp=sharing)
+Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1bwZrGOH0iHLxnymcJF7hNrlXdFgVsi1Q?usp=sharing)
 
 :arrow_right: Loading up the dataset  
 
