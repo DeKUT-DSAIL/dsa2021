@@ -1,9 +1,9 @@
 # IoT Data Processing - DSA 2021
 
 This repo contains material to be used for the DSAIL session at DSA 2021. During the session we will discuss the acquisition and processing of data from internet of things (IoT) devices. In particular we will focus on:
-* Acoustic data processing
 * Anomaly detection for time series data
 * Camera trap image processing
+* Acoustic data processing
 
 The introductory slides for the session are [here](https://docs.google.com/presentation/d/1YEe4n4gkYo-EjgHpaq--zeufmJvlE1FsUclJfDsqnqU/edit?usp=sharing)
 
@@ -27,9 +27,9 @@ On Windows
 
 ### Data
 For the acoustic processing session, download the following data
+* [Birds melspectrograms](https://drive.google.com/file/d/1BATJ6R6yTpEArAdD61l9i7u1WiTvf5cg/view?usp=sharing)
 * [Audio traffic recordings](https://drive.google.com/file/d/1-wvwEL766FvvpgJYi_adrxAyu2rHW77A/view?usp=sharing)
 * [Melspectrograms from the recordings](https://drive.google.com/file/d/1ibw9jKKqx8lDWEPyOEIGqmJkXqMkvew1/view?usp=sharing)
-* [Birds melspectrograms](https://drive.google.com/file/d/1BATJ6R6yTpEArAdD61l9i7u1WiTvf5cg/view?usp=sharing)
 
 Extract the audio and melspectrogam folders within the data subfolder in the acoustic-processing folder. The directory structure should look as follows
 ```
@@ -88,7 +88,7 @@ Extract the audio and melspectrogam folders within the data subfolder in the aco
 ## :point_right: Anomaly detection using :link: [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
 #### :one: Materials provided
-- Presentation slides 
+- Presentation slides
 - A water-level sample dataset (tailored for this Anomaly detection piece)
 - Rainfall dataset from TAHMO
 - River Muringato daily water level figures dataset from 11th Feb 2021 to 25th Sept 2021
@@ -96,12 +96,12 @@ Extract the audio and melspectrogam folders within the data subfolder in the aco
 #### :two: How to run the notebook _ setup
 
 OPTION 1: :arrow_forward: Python_environment
-- You can use the environment set up for acoustic processing 
+- You can use the environment set up for acoustic processing
 
-OPTION 2: :arrow_forward: Google collab 
+OPTION 2: :arrow_forward: Google collab
 Link :link:[Anomaly_Detection_Notebook_Link](https://colab.research.google.com/drive/1bwZrGOH0iHLxnymcJF7hNrlXdFgVsi1Q?usp=sharing)
 
-:arrow_right: Loading up the dataset  
+:arrow_right: Loading up the dataset
 
 - Click on the files icon on the side bar shown below.
 
