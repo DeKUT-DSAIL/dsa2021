@@ -27,7 +27,7 @@ On Windows
 
 ### Data
 For the acoustic processing session, download the following data
-* [Birds melspectrograms](https://drive.google.com/file/d/1fTF0VYWTZW5yCpdYqul3DcfT1EhHanOU/view?usp=sharing)
+* [Birds melspectrograms](https://drive.google.com/file/d/1bVf7IreZDy0gPxYah8_4j0KIfEhe_5M3/view?usp=sharing)
 * [Audio traffic recordings](https://drive.google.com/file/d/1-wvwEL766FvvpgJYi_adrxAyu2rHW77A/view?usp=sharing)
 * [Melspectrograms from the recordings](https://drive.google.com/file/d/1ibw9jKKqx8lDWEPyOEIGqmJkXqMkvew1/view?usp=sharing)
 
